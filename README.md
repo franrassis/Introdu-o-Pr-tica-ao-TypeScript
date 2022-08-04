@@ -1,1 +1,1 @@
-# Introdu-o-Pr-tica-ao-TypeScript
+# Introdu-o-Pratica-ao-TypeScript
